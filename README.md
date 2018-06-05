@@ -18,6 +18,8 @@ End date: 25.8.2018 - 15:00 UTC
 
  
 
+
+
 Token exchange rates:
 
 Week 1-2: 1 ETH = 19 600 OFC (40% Bonus)
